@@ -1,7 +1,7 @@
 # [Paper Dashboard PRO Angular](https://www.creative-tim.com/product/paper-dashboard-pro-angular) [![version][version-badge]][CHANGELOG]
  <!-- [![license][license-badge]][LICENSE] -->
 
-![alt text](https://s3.amazonaws.com/creativetim_bucket/products/58/opt_pdp_angular_thumbnail.jpg "Paper Dashboard PRO Angular")
+![alt text](https://s3.amazonaws.com/creativetim_bucket/products/59/opt_pdp_angular_thumbnail.jpg "Paper Dashboard PRO Angular")
 
 **[Paper Dashboard PRO Angular](https://www.creative-tim.com/product/paper-dashboard-pro-angular/)** is the premium version for the [Paper Dashboard Angular](https://www.creative-tim.com/product/paper-dashboard-angular), which is available for free download.
 
@@ -22,8 +22,8 @@ During the development of this dashboard, we have used many existing resources f
 
 ## Links:
 
-+ [Live Preview](https://www.creative-tim.com/product/paper-dashboard-pro-angular2)
-+ [Paper Kit - For Front End Development](http://www.creative-tim.com/product/paper-kit?ref=github-pd-angular)
++ [Live Preview](https://www.creative-tim.com/product/paper-dashboard-pro-angular)
++ [Paper Kit - For Front End Development](http://www.creative-tim.com/product/paper-kit?ref=github-pd-pro-angular)
 
 ## Quick start
 
