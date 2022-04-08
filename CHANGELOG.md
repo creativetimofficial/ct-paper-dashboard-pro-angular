@@ -1,3 +1,11 @@
+## [1.5.0] - 2022-04-08
+### Updates
+- update to Angular 13
+- update all dependencies to match Angular 13 version
+- update naming convention for module
+- rewrite implementation for modules
+- build issue resolved
+
 ## [1.4.0] - 2020-12-14
 ### Updates
 - update to Angular 10
