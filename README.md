@@ -255,4 +255,4 @@ Instagram: <https://instagram.com/creativetimofficial>
 
 [LICENSE]: ./LICENSE
 
-[version-badge]: https://img.shields.io/badge/version-1.5.0-blue.svg
+[version-badge]: https://img.shields.io/badge/version-1.6.0-blue.svg
