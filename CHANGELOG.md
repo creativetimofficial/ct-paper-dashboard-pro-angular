@@ -1,3 +1,7 @@
+## [1.7.1] - 2023-12-14
+### Updates
+- Navbar screen resolution fix
+  
 ## [1.7.0] - 2023-06-26
 ### Updates
 - update to Angular 15
